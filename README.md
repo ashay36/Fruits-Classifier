@@ -15,19 +15,18 @@ Train accuracy: 97.39%
 Validation accuracy : 95.64%
 ```
 
+
 I have used VGG19 model pre-trained on the Imagenet dataset and fine-tuned it.
 
 Many different combinations of hyperparameters were experimented of which this model
 proved to be more promising. The notebook also includes the code to unzip the dataset.
 
 Techniques used to reduce overfitting : 
-```
-Data Augmentation
-
-BatchNormalization
-
-Dropout
-```
+<ul>
+  <li> Data Augmentation </li>
+  <li> BatchNormalization </li>
+  <li> Dropout </li>
+</ul>  
 
 To download the dataset, click on the following link:
 https://www.kaggle.com/moltean/fruits
