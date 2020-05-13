@@ -1,5 +1,5 @@
 # Fruits-Detection
-A classifier that can classify up-to 120 different types of fruits with 95% accuracy
+A classifier that can classify up-to 120 different types of fruits and vegetables with 95% accuracy
 
 ```
 Author : Ashay Ajbani
@@ -14,7 +14,6 @@ Train accuracy: 97.39%
 
 Validation accuracy : 95.64%
 ```
-
 
 I have used VGG19 model pre-trained on the Imagenet dataset and fine-tuned it.
 
