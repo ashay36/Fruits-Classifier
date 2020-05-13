@@ -1,4 +1,4 @@
-# Fruits-Detection
+# Fruits-Recognition
 A classifier that can classify up-to 120 different types of fruits and vegetables with 95% accuracy
 
 ```
